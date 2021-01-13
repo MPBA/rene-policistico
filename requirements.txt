@@ -1,0 +1,18 @@
+ipykernel
+nb-black
+numpy>=1.18.4,<=1.19.4
+Pillow
+tqdm
+matplotlib # Gives error with versions 3.0.3
+torch
+catalyst
+scipy==1.2.2
+wheel
+scikit-image
+albumentations
+torchvision
+scikit-learn
+segmentation-models-pytorch
+jupyter_client
+ipywidgets
+jupyterlab

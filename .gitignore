@@ -130,6 +130,10 @@ dmypy.json
 
 # Data directories
 Images_original/
+images_original/
 annotations_original/
 annotations/
 masks/
+dataset/
+drive_directory/
+logs/
